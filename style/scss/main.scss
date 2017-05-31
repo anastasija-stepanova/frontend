@@ -154,14 +154,14 @@ a
 
     &_contacts
     {
-        background: url('../../images/icons/spritesheet.png') no-repeat;
+        background: url('../../images/css_sprites.png') no-repeat;
     }
 
     &_phone
     {
         width: 8px;
         height: 13px;
-        background-position: -67px -74px;
+        background-position: -77px -84px;
         margin-top: 3px;
         display: inline-block;
     }
@@ -170,52 +170,51 @@ a
     {
         width: 12px;
         height: 9px;
-        background-position: -10px -41px;
+        background-position: -20px -51px;
         margin-top: 3px;
         display: inline-block;
     }
-
 
     &_facebook
     {
         width: 7px;
         height: 13px;
-        background-position: -72px -41px;
+        background-position: -82px -51px;
     }
 
     &_gplus
     {
         width: 11px;
         height: 11px;
-        background-position: -10px -74px;
+        background-position: -20px -84px;
     }
 
     &_twitter
     {
         width: 11px;
         height: 9px;
-        background-position: -10px -106px;
+        background-position: -20px -116px;
     }
 
     &_pinterest
     {
         width: 9px;
         height: 11px;
-        background-position: -99px -43px;
+        background-position: -109px -53px;
     }
 
     &_behance
     {
-        width: 13px;
+        width: 15px;
         height: 10px;
-        background-position: -40px -10px;
+        background-position: -50px -20px;
     }
 
     &_dribbble
     {
         width: 12px;
         height: 11px;
-        background-position: -73px -10px;
+        background-position: -83px -20px;
     }
 
     &_margin_left
@@ -227,55 +226,55 @@ a
     {
         width: 13px;
         height: 12px;
-        background-position: -93px -74px;
+        background-position: -103px -84px;
     }
 
     &_passion
     {
-        background: url('../../images/icons/icon_heart.png') no-repeat;
         width: 61px;
         height: 53px;
+        background: url('../../images/css_sprites.png') -325px -10px;
         min-width: 75px;
     }
 
     &_creativity
     {
-        background-image: url('../../images/icons/icon_lamp.png');
         width: 46px;
         height: 65px;
+        background: url('../../images/css_sprites.png') -325px -83px;
         min-width: 68px;
         margin-left: 7px;
     }
 
     &_quality
     {
-        background-image: url('../../images/icons/icon_star_empty.png');
         width: 56px;
         height: 53px;
+        background: url('../../images/css_sprites.png') -325px -168px;
         min-width: 75px;
     }
 
     &_brackets
     {
-        background-image: url('../../images/icons/icon_brackets.png');
         width: 75px;
         height: 47px;
+        background: url('../../images/css_sprites.png') -90px -239px;
         min-width: 75px;
     }
 
     &_hand
     {
-        background-image: url('../../images/icons/icon_hand.png');
         width: 63px;
         height: 64px;
+        background: url('../../images/css_sprites.png') -10px -155px;
         min-width: 75px;
     }
 
     &_spiker
     {
-        background-image: url('../../images/icons/icon_spiker.png');
         width: 73px;
         height: 62px;
+        background: url('../../images/css_sprites.png') -152px -10px;
         min-width: 75px;
     }
 
@@ -283,7 +282,7 @@ a
     {
         width: 8px;
         height: 12px;
-        background-position: -41px -74px;
+        background-position: -47px -84px;
         min-width: 13px;
         margin-right: 10px;
     }
@@ -292,7 +291,7 @@ a
     {
         width: 9px;
         height: 13px;
-        background-position: -104px -10px;
+        background-position: -111px -20px;
         min-width: 13px;
         margin-right: 10px;
     }
@@ -301,7 +300,7 @@ a
     {
         width: 13px;
         height: 9px;
-        background-position: -41px -41px;
+        background-position: -49px -51px;
         min-width: 13px;
         margin-right: 7px;
     }
@@ -469,24 +468,18 @@ a
 
 .prev_slid
 {
-    background: url('../../images/left_prev_button.png') no-repeat;
+    width: 60px;
+    height: 60px;
+    background: url('../../images/css_sprites.png') -93px -155px;
     left: 50px;
-
-    &:hover
-    {
-        background: url('../../images/left_prev_button_hover.png') no-repeat;
-    }
 }
 
 .next_slid
 {
-    background: url('../../images/right_next_button.png') no-repeat;
+    width: 60px;
+    height: 60px;
+    background: url('../../images/css_sprites.png') -245px -90px;
     right: 50px;
-
-    &:hover
-    {
-        background: url('../../images/right_next_button_hover.png') no-repeat;
-    }
 }
 
 .carousel
@@ -917,9 +910,9 @@ a
 .roll_up
 {
     display: none;
-    background: url('../../images/roll_up_button.png') no-repeat;
-    width: 52px;
-    height: 52px;
+    width: 40px;
+    height: 40px;
+    background: url('../../images/css_sprites.png') -325px -241px;
     position: fixed;
     right: 40px;
     top: 700px;
@@ -981,9 +974,9 @@ a
 
 .close_button
 {
-    background: url('../../images/close_button.png') no-repeat;
     width: 25px;
     height: 26px;
+    background: url('../../images/css_sprites.png') -245px -170px;
     position: absolute;
     top: 35px;
     right: 35px;

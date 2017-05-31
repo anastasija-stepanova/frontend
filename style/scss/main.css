@@ -117,7 +117,7 @@ a {
   background: no-repeat;
   margin-right: 10px; }
   .icon_contacts {
-    background: url("../../images/icons/spritesheet.png") no-repeat; }
+    background: url("../../images/css_sprites.png") no-repeat; }
   .icon_phone {
     width: 8px;
     height: 13px;
@@ -129,6 +129,7 @@ a {
     height: 9px;
     background-position: -10px -41px;
     margin-top: 3px;
+    display: inline-block;
     display: inline-block; }
   .icon_facebook {
     width: 7px;
@@ -161,35 +162,35 @@ a {
     height: 12px;
     background-position: -93px -74px; }
   .icon_passion {
-    background: url("../../images/icons/icon_heart.png") no-repeat;
     width: 61px;
     height: 53px;
+    background: url("../../images/css_sprites.png") -325px -10px;
     min-width: 75px; }
   .icon_creativity {
-    background-image: url("../../images/icons/icon_lamp.png");
     width: 46px;
     height: 65px;
+    background: url("../../images/css_sprites.png") -325px -83px;
     min-width: 68px;
     margin-left: 7px; }
   .icon_quality {
-    background-image: url("../../images/icons/icon_star_empty.png");
     width: 56px;
     height: 53px;
+    background: url("../../images/css_sprites.png") -325px -168px;
     min-width: 75px; }
   .icon_brackets {
-    background-image: url("../../images/icons/icon_brackets.png");
     width: 75px;
     height: 47px;
+    background: url("../../images/css_sprites.png") -90px -239px;
     min-width: 75px; }
   .icon_hand {
-    background-image: url("../../images/icons/icon_hand.png");
     width: 63px;
     height: 64px;
+    background: url("../../images/css_sprites.png") -10px -155px;
     min-width: 75px; }
   .icon_spiker {
-    background-image: url("../../images/icons/icon_spiker.png");
     width: 73px;
     height: 62px;
+    background: url("../../images/css_sprites.png") -152px -10px;
     min-width: 75px; }
   .icon_location_footer {
     width: 8px;
