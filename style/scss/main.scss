@@ -159,7 +159,7 @@ a
     {
         width: 8px;
         height: 13px;
-        background-position: -87px -94px;
+        background-position: -77px -84px;
         margin-top: 3px;
         display: inline-block;
     }
@@ -168,7 +168,7 @@ a
     {
         width: 12px;
         height: 9px;
-        background-position: -30px -61px;
+        background-position: -20px -51px;
         margin-top: 3px;
         display: inline-block;
     }
@@ -177,42 +177,42 @@ a
     {
         width: 7px;
         height: 13px;
-        background-position: -92px -61px;
+        background-position: -82px -51px;
     }
 
     &_gplus
     {
         width: 11px;
         height: 11px;
-        background-position: -30px -94px;
+        background-position: -20px -84px;
     }
 
     &_twitter
     {
         width: 11px;
         height: 9px;
-        background-position: -30px -126px;
+        background-position: -20px -116px;
     }
 
     &_pinterest
     {
         width: 9px;
         height: 11px;
-        background-position: -119px -63px;
+        background-position: -109px -53px;
     }
 
     &_behance
     {
         width: 15px;
         height: 10px;
-        background-position: -60px -30px;
+        background-position: -50px -20px;
     }
 
     &_dribbble
     {
         width: 12px;
         height: 11px;
-        background-position: -93px -30px;
+        background-position: -83px -20px;
     }
 
     &_margin_left
@@ -224,14 +224,14 @@ a
     {
         width: 13px;
         height: 12px;
-        background-position: -113px -94px;
+        background-position: -103px -84px;
     }
 
     &_passion
     {
         width: 61px;
         height: 53px;
-        background: url('../../images/css_sprites.png') -335px -20px;
+        background: url('../../images/css_sprites.png') -325px -10px;
         min-width: 75px;
     }
 
@@ -239,7 +239,7 @@ a
     {
         width: 46px;
         height: 65px;
-        background: url('../../images/css_sprites.png') -335px -93px;
+        background: url('../../images/css_sprites.png') -325px -83px;
         min-width: 68px;
         margin-left: 7px;
     }
@@ -248,7 +248,7 @@ a
     {
         width: 56px;
         height: 53px;
-        background: url('../../images/css_sprites.png') -335px -178px;
+        background: url('../../images/css_sprites.png') -325px -168px;
         min-width: 75px;
     }
 
@@ -256,7 +256,7 @@ a
     {
         width: 75px;
         height: 47px;
-        background: url('../../images/css_sprites.png') -100px -249px;
+        background: url('../../images/css_sprites.png') -90px -239px;
         min-width: 75px;
     }
 
@@ -264,7 +264,7 @@ a
     {
         width: 63px;
         height: 64px;
-        background: url('../../images/css_sprites.png') -20px -165px;
+        background: url('../../images/css_sprites.png') -10px -155px;
         min-width: 75px;
     }
 
@@ -272,7 +272,7 @@ a
     {
         width: 73px;
         height: 62px;
-        background: url('../../images/css_sprites.png') -162px -20px;
+        background: url('../../images/css_sprites.png') -152px -10px;
         min-width: 75px;
     }
 
@@ -280,7 +280,7 @@ a
     {
         width: 8px;
         height: 12px;
-        background-position: -57px -94px;
+        background-position: -47px -84px;
         min-width: 13px;
         margin-right: 10px;
     }
@@ -289,7 +289,7 @@ a
     {
         width: 9px;
         height: 13px;
-        background-position: -121px -30px;
+        background-position: -111px -20px;
         min-width: 13px;
         margin-right: 10px;
     }
@@ -298,7 +298,7 @@ a
     {
         width: 13px;
         height: 9px;
-        background-position: -59px -61px;
+        background-position: -49px -51px;
         min-width: 13px;
         margin-right: 7px;
     }
@@ -468,7 +468,7 @@ a
 {
     width: 60px;
     height: 60px;
-    background: url('../../images/css_sprites.png') -103px -165px;
+    background: url('../../images/css_sprites.png') -93px -155px;
     left: 50px;
 }
 
@@ -476,7 +476,7 @@ a
 {
     width: 60px;
     height: 60px;
-    background: url('../../images/css_sprites.png') -255px -100px;
+    background: url('../../images/css_sprites.png') -245px -90px;
     right: 50px;
 }
 
@@ -910,7 +910,7 @@ a
     display: none;
     width: 40px;
     height: 40px;
-    background: url('../../images/css_sprites.png') -335px -251px;
+    background: url('../../images/css_sprites.png') -325px -241px;
     position: fixed;
     right: 40px;
     top: 700px;
@@ -974,7 +974,7 @@ a
 {
     width: 25px;
     height: 26px;
-    background: url('../../images/css_sprites.png') -255px -180px;
+    background: url('../../images/css_sprites.png') -245px -170px;
     position: absolute;
     top: 35px;
     right: 35px;
@@ -1067,39 +1067,6 @@ textarea
     &:hover
     {
         background-color: #00bc9c;
-    }
-}
-
-.latest_work_footer
-{
-    background: url('../../images/css_sprites.png') no-repeat;
-
-    &_1
-    {
-        width: 125px;
-        height: 85px;
-        background-position: -428px -3px;
-    }
-
-    &_2
-    {
-        width: 125px;
-        height: 85px;
-        background-position: -428px -107px;
-    }
-
-    &_3
-    {
-        width: 125px;
-        height: 85px;
-        background-position: -428px -212px;
-    }
-
-    &_4
-    {
-        width: 125px;
-        height: 85px;
-        background-position: -12px -332px;
     }
 }
 
