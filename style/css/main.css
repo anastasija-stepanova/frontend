@@ -121,92 +121,92 @@ a {
   .icon_phone {
     width: 8px;
     height: 13px;
-    background-position: -77px -84px;
+    background-position: -87px -94px;
     margin-top: 3px;
     display: inline-block; }
   .icon_email {
     width: 12px;
     height: 9px;
-    background-position: -20px -51px;
+    background-position: -30px -61px;
     margin-top: 3px;
     display: inline-block; }
   .icon_facebook {
     width: 7px;
     height: 13px;
-    background-position: -82px -51px; }
+    background-position: -92px -61px; }
   .icon_gplus {
     width: 11px;
     height: 11px;
-    background-position: -20px -84px; }
+    background-position: -30px -94px; }
   .icon_twitter {
     width: 11px;
     height: 9px;
-    background-position: -20px -116px; }
+    background-position: -30px -126px; }
   .icon_pinterest {
     width: 9px;
     height: 11px;
-    background-position: -109px -53px; }
+    background-position: -119px -63px; }
   .icon_behance {
     width: 15px;
     height: 10px;
-    background-position: -50px -20px; }
+    background-position: -60px -30px; }
   .icon_dribbble {
     width: 12px;
     height: 11px;
-    background-position: -83px -20px; }
+    background-position: -93px -30px; }
   .icon_margin_left {
     margin-left: 10px; }
   .icon_search {
     width: 13px;
     height: 12px;
-    background-position: -103px -84px; }
+    background-position: -113px -94px; }
   .icon_passion {
     width: 61px;
     height: 53px;
-    background: url("../../images/css_sprites.png") -325px -10px;
+    background: url("../../images/css_sprites.png") -335px -20px;
     min-width: 75px; }
   .icon_creativity {
     width: 46px;
     height: 65px;
-    background: url("../../images/css_sprites.png") -325px -83px;
+    background: url("../../images/css_sprites.png") -335px -93px;
     min-width: 68px;
     margin-left: 7px; }
   .icon_quality {
     width: 56px;
     height: 53px;
-    background: url("../../images/css_sprites.png") -325px -168px;
+    background: url("../../images/css_sprites.png") -335px -178px;
     min-width: 75px; }
   .icon_brackets {
     width: 75px;
     height: 47px;
-    background: url("../../images/css_sprites.png") -90px -239px;
+    background: url("../../images/css_sprites.png") -100px -249px;
     min-width: 75px; }
   .icon_hand {
     width: 63px;
     height: 64px;
-    background: url("../../images/css_sprites.png") -10px -155px;
+    background: url("../../images/css_sprites.png") -20px -165px;
     min-width: 75px; }
   .icon_spiker {
     width: 73px;
     height: 62px;
-    background: url("../../images/css_sprites.png") -152px -10px;
+    background: url("../../images/css_sprites.png") -162px -20px;
     min-width: 75px; }
   .icon_location_footer {
     width: 8px;
     height: 12px;
-    background-position: -47px -84px;
+    background-position: -57px -94px;
     min-width: 13px;
     margin-right: 10px; }
   .icon_phone_footer {
     width: 9px;
     height: 13px;
-    background-position: -111px -20px;
+    background-position: -121px -30px;
     min-width: 13px;
     margin-right: 10px; }
   .icon_email_footer {
     width: 13px;
     height: 9px;
-    background-position: -49px -51px;
+    background-position: -59px -61px;
     min-width: 13px;
     margin-right: 7px; }
 
@@ -310,13 +310,13 @@ a {
 .prev_slid {
   width: 60px;
   height: 60px;
-  background: url("../../images/css_sprites.png") -93px -155px;
+  background: url("../../images/css_sprites.png") -103px -165px;
   left: 50px; }
 
 .next_slid {
   width: 60px;
   height: 60px;
-  background: url("../../images/css_sprites.png") -245px -90px;
+  background: url("../../images/css_sprites.png") -255px -100px;
   right: 50px; }
 
 .carousel {
@@ -565,7 +565,7 @@ a {
   display: none;
   width: 40px;
   height: 40px;
-  background: url("../../images/css_sprites.png") -325px -241px;
+  background: url("../../images/css_sprites.png") -335px -251px;
   position: fixed;
   right: 40px;
   top: 700px;
@@ -617,7 +617,7 @@ a {
 .close_button {
   width: 25px;
   height: 26px;
-  background: url("../../images/css_sprites.png") -245px -170px;
+  background: url("../../images/css_sprites.png") -255px -180px;
   position: absolute;
   top: 35px;
   right: 35px;
@@ -684,6 +684,25 @@ textarea {
   margin: 5px; }
   .slider_indicator:hover {
     background-color: #00bc9c; }
+
+.latest_work_footer {
+  background: url("../../images/css_sprites.png") no-repeat; }
+  .latest_work_footer_1 {
+    width: 125px;
+    height: 85px;
+    background-position: -428px -3px; }
+  .latest_work_footer_2 {
+    width: 125px;
+    height: 85px;
+    background-position: -428px -107px; }
+  .latest_work_footer_3 {
+    width: 125px;
+    height: 85px;
+    background-position: -428px -212px; }
+  .latest_work_footer_4 {
+    width: 125px;
+    height: 85px;
+    background-position: -12px -332px; }
 
 .submit_button {
   max-width: 295px;
