@@ -824,12 +824,15 @@ a
     {
         font: bold 15px $font_stack_two;
         color: $description_color;
+        float: left;
     }
 
     &_link_icon
     {
-        width: 10px;
-        height: 8px;
+        float: left;
+        background: url('../../images/css_sprites.png') -17px -13px;
+        width: 13px;
+        height: 18px;
     }
 }
 

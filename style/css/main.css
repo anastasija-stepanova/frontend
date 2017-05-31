@@ -508,10 +508,13 @@ a {
 
 .more_about_link {
   font: bold 15px "Source Sans Pro", sans-serif;
-  color: #a3b1bf; }
+  color: #a3b1bf;
+  float: left; }
 .more_about_link_icon {
-  width: 10px;
-  height: 8px; }
+  float: left;
+  background: url("../../images/css_sprites.png") -17px -13px;
+  width: 13px;
+  height: 18px; }
 
 .contact_footer {
   margin-bottom: 5px;

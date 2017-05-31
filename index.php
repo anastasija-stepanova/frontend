@@ -433,9 +433,7 @@
               </p>
               <div class="more_about_link_block">
                 <a class="more_about_link" href="#" title="More about us">More about us</a>
-                <a class="more_about_link_icon" href="#" title="More about us">
-                  <img src="images/icons/icon_arrow_right.png" alt="More about us" title="More about us">
-                </a>
+                <div class="more_about_link_icon" href="#" title="More about us"></div>
               </div>
             </div>
             <div class="latest_works_block_footer">
