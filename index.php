@@ -440,22 +440,10 @@
             </div>
             <div class="latest_works_block_footer">
               <h3 class="footer_block_tittle">Latest works</h3>
-              <div class="latest_work_footer latest_work_margin_right">
-                <img class="img_responsive" src="images/latest_works/latest_work_1_footer.jpg" alt="Latest work 1"
-                     title="Latest work 1">
-              </div>
-              <div class="latest_work_footer">
-                <img class="img_responsive" src="images/latest_works/latest_work_2_footer.jpg" alt="Latest work 2"
-                     title="Latest work 2">
-              </div>
-              <div class="latest_work_footer latest_work_margin_right">
-                <img class="img_responsive" src="images/latest_works/latest_work_3_footer.jpg" alt="Latest work 3"
-                     title="Latest work 3">
-              </div>
-              <div class="latest_work_footer">
-                <img class="img_responsive" src="images/latest_works/latest_work_4_footer.jpg" alt="Latest work 4"
-                     title="Latest work 4">
-              </div>
+              <div class="latest_work_footer latest_work_footer_1 latest_work_margin_right"></div>
+              <div class="latest_work_footer latest_work_footer_2"></div>
+              <div class="latest_work_footer latest_work_footer_3 latest_work_margin_right"></div>
+              <div class="latest_work_footer latest_work_footer_4"></div>
             </div>
             <div class="get_in_touch_block_footer">
               <h3 class="footer_block_tittle">Get in touch</h3>
