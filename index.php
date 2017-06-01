@@ -514,7 +514,6 @@
       <a id="rollUpButton" href="#" title="Roll up" class="roll_up"></a>
     </footer>
     <link href="https://fonts.googleapis.com/css?family=Lato:700,900|Source+Sans+Pro:400,700" rel="stylesheet">
-    <script src="js/jquery-3.2.1.js"></script>
     <script src="js/main.js"></script>
   </body>
 </html>
